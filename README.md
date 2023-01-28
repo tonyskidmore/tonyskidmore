@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- ✨ My name is Tony Skidmore and I am from the UK
+- ⚡ I have been working in IT since 1989 😮
+- 👀 Check out my [Blog](https://www.skidmore.co.uk)
+
+
+Thanks for visiting!
+
 <!--
 **tonyskidmore/tonyskidmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
